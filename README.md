@@ -13,7 +13,6 @@ The model was built using Tensorflow Sequential API :
 2) Since our task was stock price prediction, mean squared error loss was used with ‘adam’ optimizer for gradient descent.
 3) LearningRateScheduler was used as a callback. With the help of callback, we can customize our model; I was able to decrease the learning rate by 2% after every two epochs using LearningRateScheduler.
 
-Google Colab Project : https://colab.research.google.com/drive/1AaTQIojc64BVM9loPs-cvzmf_aV5IUPr?usp=sharing
-
+Google Colab Project : https://colab.research.google.com/drive/1KTtU2MfrNIyQIuy-qGoAFpB0r-o7bive?usp=sharing
 
 ![alt text](https://miro.medium.com/max/1400/1*xR4m0oOKz_jRgQU4Oge53g.jpeg)
